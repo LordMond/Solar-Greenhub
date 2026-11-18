@@ -1,0 +1,4 @@
+# Optionale / empfohlene Pakete für Solar GreenHub
+Pillow>=10.0.0
+# Nur auf dem Raspberry Pi für echte GPIO-Hardware benötigt:
+# gpiozero>=2.0

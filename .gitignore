@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+*$py.class
+build/
+dist/
+*.spec
+.venv/
+venv/
+events.log
+settings.json
+.sim_panel_geom
+/tmp/
